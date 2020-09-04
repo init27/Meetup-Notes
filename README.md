@@ -11,6 +11,7 @@ Read More about the original motivation [here](https://www.kaggle.com/getting-st
 ## Week 4 & 5
 ##### 29 August 2020 - 12 September 2020
 **Dataset: [Air Quality in India](https://www.kaggle.com/rohanrao/air-quality-data-in-india/)**
+
 **Resources:**
 - [Tableau kernel](https://www.kaggle.com/romandovega/air-quality-in-india-eda-using-tableau) by David Dirring
 - [Kernel](https://www.kaggle.com/neomatrix369/chaieda-india-s-air-quality-2015-20/) by Mani Sarkar
@@ -18,6 +19,7 @@ Read More about the original motivation [here](https://www.kaggle.com/getting-st
 ## Week 2 & 3
 ##### 15 August 2020 -29 August 2020
 **Dataset: [Police Violence in USA](https://www.kaggle.com/jpmiller/police-violence-in-the-us)**
+
 **Resources:**
 -   [Best Practises for Report Writing](https://www.kaggle.com/jpmiller/some-best-practices-for-analytics-reporting) (Kernel by JpMiller)
 - Blog: [http://www.storytellingwithdata.com](http://www.storytellingwithdata.com)
@@ -29,6 +31,7 @@ Read More about the original motivation [here](https://www.kaggle.com/getting-st
 
  ## Week 1
 **Dataset: [Titanic](https://www.kaggle.com/c/titanic)**
+
 **Resources:**
 -   [Data Visualisation Catalogue](https://datavizcatalogue.com/index.html) shared by Ramshankar  
 -   [PyTanic Kernel](https://www.kaggle.com/headsortails/pytanic) by GM Heads or Tails
